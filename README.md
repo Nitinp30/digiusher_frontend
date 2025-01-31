@@ -30,8 +30,8 @@ This is the frontend of the AWS Instance Filter application. It allows users to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/aws-instance-filter-frontend.git
-   cd aws-instance-filter-frontend
+   git clone https://github.com/Nitinp30/digiusher_frontend.git
+   cd digiusher_frontend
    ```
 2. Install dependencies:
    ```bash
